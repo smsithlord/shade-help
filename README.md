@@ -1,5 +1,5 @@
 # ShadeHelp
-This is an library for creating individual or sequenced help text bound to generic elements on a page.
+This is a library for creating individual or sequenced help text bound to generic elements on a page.
 
 # Live Demo
 ![Screenshot](/meta_image.jpg?raw=true "Screenshot")
