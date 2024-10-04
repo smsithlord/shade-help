@@ -13,10 +13,11 @@ See "index.html" for a full usage example.
 ```
 const shade = new ShadeHelp();
 shade.showHelp({
+	element: document.querySelector('#myContent'),
 	helpInfo: {
-        label: 'Label Text Here',
-        content: 'Label body text here.'
-    }
+		label: 'Label Text Here',
+		content: 'Label body text here.'
+	}
 });
 shade.on('advance', ()=>{
 	console.log('User desires to advance the help sequence...');
