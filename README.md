@@ -2,7 +2,8 @@
 This is an library for creating individual or sequenced help text bound to generic elements on a page.
 
 # Live Demo
-https://smsithlord.github.io/shadehelp/
+![Screenshot](/meta_image.jpg?raw=true "Screenshot")
+https://smsithlord.github.io/shade-help/
 
 # Compatibility
 Tested Working: Edge & Chrome on Windows
